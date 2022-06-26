@@ -14,17 +14,25 @@ How did you make this program maintainable, readable, and adaptable?
   Making the program better was achieved through coming up with the proper functions along with utilizing the proper namespaces that enabled me to obtain a display of the 12- hour and 24- hour clock formats. This also included my use of whitespace throughtout the coding process.
  
  CS 250 Journal 8 Post
+-
 How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+  -
   User needs are one of the first discussed among the software developer team as well as with the client. The user requirements discuss the various unambiguously by writing and documenting it to determine a perfect project path. Document known as software requirement specification is used for this purpose. This includes feasibility study, requirement gathering, software requirement specification document as well as validation for the requirements. Then the requirements are organized based on their importance. After, some conflicts are resolved and negotiations take place on features and prices. 
+ -
   User stories helps a lot in a requirement gathering process and is an informal/simple discussion like language description of one or many features of the software system. It is also part of an agile software development to get an insight into the user needs from an end user's perspective. User stories thus can be captured from the end user on the client and the developer team, which reduces the time spent on writing large documentations as well as it also saves time in developing quality software.
+-
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+  -
   In order to start developing a program as a developer I should have a clear picture of what features are to be included and what to avoid. There must be a process of unambiguous requirement gathering before any kind of software development process were to even begin. Upon receiving the clients requirements, the developer can then decide which software development model is best suited for the software being developed. Examples of some software development models are:
   - iterative
   - waterfall
   - prototype
   - agile
+ -
  Some agile software development processes I hope to incorporate into my future development work are scrum, extreme programming, frequent inspection and adaptation. They are part of the major methodology which can be incorporated into an agile software devleopment process as it encourages accountability, teamwork and self-organization along with being aligned with the business approach in including the client in all of the developmental process.
+-
 What does it mean to be a good team member in software development?
+  -
   To be a good team member, one must be part of an overall good sofware development team. What makes a good team member includes qualities such as:
   - Being Interactive
   - Great Communication Skills
